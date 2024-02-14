@@ -90,7 +90,7 @@
 //       correta: 0
 //     },
 //   ];
-   
+
 const perguntas = [
   {
     pergunta: "Qual é a principal divindade do panteão de Arton?",
